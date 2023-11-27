@@ -1,0 +1,18 @@
+Canada, CAD, 99, -3.5, North America, English, French
+USA, USD, 86, -5, North America, English
+Mexico, MXN, 93, -6, North America, Spanish
+France, EUR, 99, 1, Europe, French
+Germany, EUR, 99, 1, Europe, German
+Japan, JPY, 99, 9, Asia, Japanese
+China, CNY, 96, 8, Asia, Chinese
+Brazil, BRL, 92, -3, South America, Portuguese
+India, INR, 74, 5.5, Asia, Hindi, English
+Indonesia, IDR, 93, 7, Asia, Indonesian
+Pakistan, PKR, 72, 5, Asia, Urdu, English
+Bangladesh, BDT, 72, 6, Asia, Bengali
+Russia, RUB, 99, 3, Europe, Russian
+Nigeria, NGN, 69, 1, Africa, English
+Egypt, EGP, 73, 2, Africa, Arabic
+Iran, IRR, 84, 3.5, Asia, Persian
+Turkey, TRY, 96, 2, Europe, Turkish
+Venezuela, VEF, 93, -4.5, South America, Spanish
